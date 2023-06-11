@@ -1,6 +1,6 @@
 # dinopark
 
-![dinopark](oldagedinosaur.svg)
+![dinopark](img/oldagedinosaur.svg)
 
 dinopark is a game about dinosaurs
 
