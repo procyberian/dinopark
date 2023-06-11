@@ -1,5 +1,7 @@
 # dinopark
 
+![dinopark](oldagedinosaur.svg)
+
 dinopark is a game about dinosaurs
 
 # License
